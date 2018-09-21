@@ -482,7 +482,7 @@ ter aulas de música
 *****************************/
 
 .section-5-background{ 
-	background:url(../images/ter%20aulas.png) no-repeat ;
+	background:url(../images/ter%20aulas.jpg) no-repeat ;
 	background-color:#252525; 
 	background-position:center; 
 	padding:10%; 
@@ -501,7 +501,7 @@ professores
 *****************************/
 
 .section-57-background{ 
-	background:url(../images/Dar%20Aulas.png) no-repeat ;
+	background:url(../images/Dar%20Aulas.jpg) no-repeat ;
 	background-color:#252525; 
 	background-position:center; 
 	padding:10%; 
@@ -598,7 +598,7 @@ SOBRE NÓS
 *****************************/
 
 .section-55-background{ 
-	background:url(../images/Sobren%C3%B3s.png) no-repeat;
+	background:url(../images/Sobren%C3%B3s.jpg) no-repeat;
 	background-color:#252525; 
 	background-position:center; 
 	padding:10%; 
@@ -614,7 +614,7 @@ Contactos
 *****************************/
 
 .section-66-background{ 
-	background:url(../images/Contactos.png) no-repeat  bottom;
+	background:url(../images/Contactos.jpg) no-repeat  bottom;
 	background-color:#252525; 
 	background-position:center; 
 	padding:10%; 
@@ -630,7 +630,7 @@ Campo de Guitarra
 *****************************/
 
 .section-77-background{ 
-	background:url(../images/Campo%20de%20f%C3%A9rias.png) no-repeat  bottom;
+	background:url(../images/Campo%20de%20f%C3%A9rias.jpg) no-repeat  bottom;
 	background-color:#252525; 
 	background-position:center; 
 	padding:10%; 
@@ -1605,14 +1605,14 @@ Section 15
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url('../images/slide/slider%20Campo.png');
+  background-image: url('../images/slide/Slider%20Ter.jpg');
 }
 .fade-carousel .slides .slide-2 {
-  background-image:url('../images/slide/slider%20Campo.png');
+  background-image:url('../images/slide/Slider%20Dar.jpg');
 }
 .fade-carousel .slides .slide-3 {
     
-  background-image: url('../images/slide/slider%20Campo.png');
+  background-image: url('../images/slide/slider%20Campo.jpg');
 }
 
 
