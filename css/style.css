@@ -482,7 +482,7 @@ ter aulas de música
 *****************************/
 
 .section-5-background{ 
-	background:url(../images/dar%20aulas.jpg) no-repeat ;
+	background:url(../images/Ter%20Aulas.jpg) no-repeat ;
 	background-color:#252525; 
 	background-position:center; 
 	padding:10%; 
@@ -492,9 +492,8 @@ ter aulas de música
     -o-background-size: cover;
     margin-top: 0px;
 }
-.section-5-box-text-cont{text-align:center;}
-.section-5-box-text-cont h2{color:#fff; margin:40px 0 15px 0;}
-.section-5-box-text-cont p{color:#fff; margin:0 0 40px 0;}
+
+
 
 /****************************
 professores
