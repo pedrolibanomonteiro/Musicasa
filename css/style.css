@@ -150,7 +150,7 @@ p{
 html,
 body { height: 100%; width: 100%;}
 body {
-font-family: 'Open Sans', sans-serif, 'Gotham Rounded';
+font-family: 'Gotham Rounded';
     
 }
 a {
@@ -159,7 +159,7 @@ a {
     -webkit-transition: 0.3s;
     transition: 0.3s;
     color: #fafafa;
-    font-family: 'Open Sans', sans-serif, 'Gotham Rounded';
+    font-family: 'Gotham Rounded';
 }
 
 
@@ -1249,7 +1249,7 @@ Section 15
 .section16 .success, 
 .section16 .error {
   display: none;
-  font-family: "Source Sans Pro",sans-serif;
+  font-family: Gotham Rounded;
   margin-bottom: 48px;
 }
 .section16 .success{color: green;}
@@ -1590,23 +1590,7 @@ Section 15
     padding-bottom: 3%;
 }
 
-/*.fade-carousel .carousel-inner .item .hero {
-    opacity: 0;
-    -webkit-transition: 2s all ease-in-out .1s;
-       -moz-transition: 2s all ease-in-out .1s; 
-        -ms-transition: 2s all ease-in-out .1s; 
-         -o-transition: 2s all ease-in-out .1s; 
-            transition: 2s all ease-in-out .1s; 
-} 
 
-.fade-carousel .carousel-inner .item.active .hero {
-    opacity: 1;
-    -webkit-transition: 2s all ease-in-out .1s;
-       -moz-transition: 2s all ease-in-out .1s; 
-        -ms-transition: 2s all ease-in-out .1s; 
-         -o-transition: 2s all ease-in-out .1s; 
-            transition: 2s all ease-in-out .1s;    
-}  */
 
 
 /********************************/
