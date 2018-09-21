@@ -477,21 +477,7 @@ center {
 10)Section 5
 *************************************/
 
-/****************************
-ter aulas de música
-*****************************/
 
-.section-5-background{ 
-	background:url(../images/Ter%20Aulas.jpg) no-repeat ;
-	background-color:#252525; 
-	background-position:center; 
-	padding:10%; 
-	background-size: cover;
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    margin-top: 0px;
-}
 
 
 
@@ -513,6 +499,25 @@ professores
 .section-57-box-text-cont{text-align:center;}
 .section-57-box-text-cont h2{color:#fff; margin:40px 0 15px 0;}
 .section-57-box-text-cont p{color:#fff; margin:0 0 40px 0;}
+
+/****************************
+alunos
+*****************************/
+
+.section-58-background{ 
+	background:url(../images/Ter%20Aulas.jpg) no-repeat ;
+	background-color:#252525; 
+	background-position:center; 
+	padding:10%; 
+	background-size: cover;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin-top: 0px;
+}
+.section-58-box-text-cont{text-align:center;}
+.section-58-box-text-cont h2{color:#fff; margin:40px 0 15px 0;}
+.section-58-box-text-cont p{color:#fff; margin:0 0 40px 0;}
 
 
 /****************************
