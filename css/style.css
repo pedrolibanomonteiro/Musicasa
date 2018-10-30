@@ -115,7 +115,7 @@ h5,
 h6 {
     margin: 0 0 15px;
 	font-weight:600;
-    font-family: Gotham Rounded;
+ font-family: 'Varela Round', sans-serif;
 }
  
 /*****
@@ -134,12 +134,12 @@ h20 {
 }
 
 h20 {
-    font: Gotham Rounded;
+  font-family: 'Varela Round', sans-serif;
 
 }
 
 p{
-    font-family: Gotham Rounded;
+   font-family: 'Varela Round', sans-serif;
 
 
     
@@ -150,17 +150,10 @@ p{
 html,
 body { height: 100%; width: 100%;}
 body {
-font-family: 'Gotham Rounded';
-    
+font-family: 'Varela Round', sans-serif;
 }
-a {
-    -moz-transition: 0.3s;
-    -o-transition: 0.3s;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-    color: #fafafa;
-    font-family: 'Gotham Rounded';
-}
+
+
 
 
 a:hover { text-decoration: none;}
@@ -216,7 +209,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       border-radius: 100px;
     border-color: #ff303e;
      border-style: solid;
-    font-family: gotham rounded;
+font-family: 'Varela Round', sans-serif;
 }
 .row-1 .btn-primary:hover {
      background-color: #ffffff;
@@ -225,7 +218,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     border-color: #ff303e;
      border-style: solid;
     opacity: 0.6;
-    font-family: gotham rounded;
+  font-family: 'Varela Round', sans-serif;
 }
 
 .row-1 .btn-seconday {
@@ -296,7 +289,7 @@ p{line-height:26px;}
 
 .section-margine{
     margin:70px 0 0 0;
-    font-family: Gotham Rounded;
+ font-family: 'Varela Round', sans-serif;
 }
 
 /************************************
@@ -309,7 +302,7 @@ p{line-height:26px;}
  }
 
 center {
-    font-family: gotham rounded;
+font-family: 'Varela Round', sans-serif;
     
 }
 
@@ -953,6 +946,106 @@ ULRICH
 	border:1px solid #fff;
 	}
 
+
+/************************************
+16)Footer top Landind
+*************************************/
+.footer-top-landing{
+	padding: 25px 25px 0px 25px;
+ background-image: -webkit-linear-gradient(top, #ef7a3c, #e83945);
+    background-image: linear-gradient(to bottom, #ef7a3c, #e83945);
+    color:#fafafa;
+	font-size:14px !important;
+  
+	}
+	
+.footer-top-landing p{
+		font-size:14px !important;
+		margin-bottom:0px;
+	}
+.footer-top-landing-box{
+	margin:30px auto; 
+	overflow:hidden;
+	}
+.footer-top-landing h4{
+	color:#fff; 
+	text-transform:capitalize;
+	}
+	
+.footer-top-landing .input-holder {
+    position: relative;
+}
+
+.footer-top-landing .input-holder input[type="email"] {
+    width: 100%;
+    display: inline-block;
+    border: 0;
+    border-radius: 0;
+    height: 39px;
+    padding: 10px 20px;
+}
+
+.footer-top-landing .input-holder label {
+    position: absolute;
+    top: 0;
+    right: -4px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.footer-top-landing .input-holder label i {
+    position: absolute;
+    top: 9px;
+    left: 8px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer-top-landing .input-holder input[type="submit"] {
+    color: #fff;
+    border: 0;
+    border-radius: 0;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 20px;
+    line-height: 0;
+    text-indent: -999px;
+}	
+.footer-top-landing .submit-bgcolor{background-color: #E74C4A;}
+
+.footer-top-landing ul{
+	list-style-type:none; 
+	padding-left:0px;
+	}
+
+.footer-top-landing ul li{
+	margin:0 0 10px 0px;
+	}
+
+.footer-top-landing-box a{
+    color: #fafafa;
+	}
+
+.footer-top-landing-box a:hover{
+    opacity: 0.8;
+    color: #fafafa;
+        
+	}
+
+.tag a{
+	margin:5px; 
+	color:#fff; 
+	padding:5px; 
+	float:left; 
+	border:1px solid #7e7e7e;
+	} 		
+
+.tag a:hover{
+	color:#fff;
+	border:1px solid #fff;
+	}
+
 /***************************************
 17)Footer Bottom
 ****************************************/
@@ -1253,7 +1346,7 @@ Section 15
 .section16 .success, 
 .section16 .error {
   display: none;
-  font-family: Gotham Rounded;
+ font-family: 'Varela Round', sans-serif;
   margin-bottom: 48px;
 }
 .section16 .success{color: green;}
@@ -1503,12 +1596,7 @@ Section 15
     border-top: 1px solid rgba(255,255,255,0.2);
 }
 
-@font-face { font-family: 'Gotham Rounded Medium'; src: url(http://www.bahiajobs.com/css/fonts/gotham-rounded/gothamrnd-medium.woff) ; }
 
-@font-face { font-family: 'Gotham Rounded Light'; src: url(http://www.bahiajobs.com/css/fonts/gotham-rounded/gothamrnd-light.woff) ; }
-
-@font-face { font-family: 'Gotham Rounded Book'; src: url(http://www.bahiajobs.com/css/fonts/gotham-rounded/gothamrnd-book.woff) ; }
-@font-face { font-family: 'Gotham Rounded Bold'; src: url(http://www.bahiajobs.com/css/fonts/gotham-rounded/gothamrnd-bold.woff) ; }
 
 
 .social-links {
@@ -1587,7 +1675,7 @@ Section 15
 
 .hero h3 {
     font-size: 2em;  
-    font-family: 'gotham rounded';
+   font-family: 'Varela Round', sans-serif;
     font-weight: lighter;
     margin: 0;
     padding: 0;
@@ -1655,7 +1743,7 @@ Section 15
   font-size: 20px;
   font-weight: lighter;
   padding: 10px 0;
-    font-family: gotham rounded;
+   font-family: 'Varela Round', sans-serif;
 
 }
 
@@ -1663,7 +1751,7 @@ Section 15
   display: block;
   font-weight: 800;
   color: #ff303e;
-    font-family: gotham rounded;
+   font-family: 'Varela Round', sans-serif;
 }
 
 
@@ -1825,7 +1913,7 @@ Section 15
 
 .faq-header{
   font-size: 30px;
-    font-family: gotham rounded;
+    font-family: 'Varela Round', sans-serif;
     font-weight: 600;
  padding: 24px;
     margin-top: 50px;
@@ -1844,7 +1932,7 @@ Section 15
 }
 
 .panel-title {
-    font-family: gotham rounded;
+   font-family: 'Varela Round', sans-serif;
     font-weight: 400;
     font-size: 20px;
   width: 100%;
@@ -1857,7 +1945,7 @@ Section 15
 
 .panel-content {
   font-size: 20px;
-    font-family: gotham rounded;
+  font-family: 'Varela Round', sans-serif;
     font-weight: lighter;
   padding: 0px 14px;
   margin: 0 40px;
@@ -1880,7 +1968,7 @@ Section 15
 
 .plus {
   position: absolute;
-    font-family: gotham rounded;
+   font-family: 'Varela Round', sans-serif;
   margin-left: 10px;
   margin-top: 8px;
   z-index: 5;
@@ -1947,7 +2035,7 @@ max-width: none !important;
 
 * {
     box-sizing: border-box;
-    font-family: gotham rounded;
+  font-family: 'Varela Round', sans-serif;
 }
 
 
