@@ -1983,6 +1983,7 @@ Section 15
   -moz-transition: .2s ease;
   -o-transition: .2s ease;
   transition: .2s ease;
+   color: #ff303e;"
 }
 
 .panel:checked ~ .plus {
