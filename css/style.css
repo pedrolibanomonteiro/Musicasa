@@ -304,6 +304,8 @@ iframe{display:block;margin:0 auto;padding-top:10px}
 .hero h3{font-size:2em;font-family:'Varela Round',sans-serif;font-weight:lighter;margin:0;padding:0;padding-bottom:3%}
 .fade-carousel .slides .slide-1,.fade-carousel .slides .slide-2,.fade-carousel .slides .slide-3{height:75vh;background-size:cover;background-position:center center;background-repeat:no-repeat}
 .fade-carousel .slides .slide-1{background-image:url(../images/slide/Slider%20Ter.jpg)}
+.fade-carousel .slides .slide-2{background-image:url(../images/slide/Slider%20Dar.jpg)}
+.fade-carousel .slides .slide-3{background-image:url(../images/slide/slider%20Campo.jpg)}
 @media screen and (min-width: 980px) {
 .hero{width:980px}
 }
