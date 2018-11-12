@@ -1,50 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>http://musicasa.pt/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://musicasa.pt/404.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/aulas-de-música.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/campo-musicasa.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/contactos.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/faq-alunos.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/faq-professores.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/index.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/professores.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-     <url>
-    <loc>http://musicasa.pt/sobre-nós.html</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-    
-   
- 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://musicasa.pt/</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/index.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/aulas-de-m%C3%BAsica.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/professores.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/campo-musicasa.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/contactos.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/sobre-n%C3%B3s.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/faq-alunos.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://musicasa.pt/faq-professores.html</loc>
+  <lastmod>2018-11-12T15:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
-<!--<guid value="563ad72e-134c-4b86-a932-187e594adc89" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
