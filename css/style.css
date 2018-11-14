@@ -16,17 +16,17 @@ a:hover{text-decoration:none}
 a:focus{outline:0 solid}
 input:-webkit-autofill,input:-webkit-autofill:hover,input:-webkit-autofill:focus{-webkit-box-shadow:0 0 0 1000px white inset!important}
 .btn{padding:3% 6%}
-.btn-primary{background-color:linear-gradient(to left,#ff7d34,#ff303e);border-radius:100px;padding:10px 30px;background-color:#fafafa;border-color:none;margin-top:3.5%;border-style:hidden}
-.btn-primary:hover{color:#fafafa;border-radius:100px;padding:10px 30px;background-color:#fafafa;border-color:none;margin-top:3.5%;border-style:hidden;opacity:.9}
-.btn-seconday{color:#E74C4A;border-radius:100px;padding:10px 30px;background-color:#fff;border-color:#fafafa;margin-top:3.5%;border-style:hidden}
+.btn-primary{background-color:linear-gradient(to left,#ff7d34,#ff303e);border-radius:100px;padding:10px 30px;background-color:#fafafa;border-color:none;margin-top:3.5%;border-style:hidden;font-size: 20px;}
+.btn-primary:hover{color:#fafafa;border-radius:100px;padding:10px 30px;background-color:#fafafa;border-color:none;margin-top:3.5%;border-style:hidden;opacity:.9;font-size: 20px;}
+.btn-seconday{color:#E74C4A;border-radius:100px;padding:10px 30px;background-color:#fff;border-color:#fafafa;margin-top:3.5%;border-style:hidden;}
 .btn-seconday:hover{color:#E74C4A;border-radius:100px;padding:10px 30px;background-color:#fff;border-color:#fafafa;margin-top:3.5%;border-style:hidden;opacity:.9}
-.row-1 .btn-primary{background-color:#ffffff;color:#ff303e;border-radius:100px;border-color:#ff303e;border-style:solid;font-family:'Varela Round',sans-serif}
-.row-1 .btn-primary:hover{background-color:#ffffff;color:#ff303e;border-radius:100px;border-color:#ff303e;border-style:solid;opacity:.6;font-family:'Varela Round',sans-serif}
-.row-1 .btn-seconday{color:#ffffff;border-radius:100px;background-color:#ff303e;border-color:none;border-style:hidden}
-.row-1 .btn-seconday:hover{color:#ffffff;border-radius:100px;background-color:#ff303e;border-color:none;border-style:hidden;opacity:.6}
-.hero .btn-seconday{color:#E74C4A;border-radius:100px;padding:10px 30px;background-color:#fff;border-color:#fafafa;border-style:hidden;opacity:.9}
-.hero .btn-seconday:hover{color:#E74C4A;border-radius:100px;padding:10px 30px;background-color:#fff;border-color:#fafafa;border-style:hidden;opacity:.6}
-.btn-seconday-1{color:white;border-radius:100px;padding:10px 30px;background-color:transparent;border-color:#fafafa;margin-top:3.5%;border-style:solid}
+
+
+.row-1 .btn-seconday{color:#ffffff;border-radius:100px;background-color:#ff303e;border-color:none;border-style:hidden;font-size: 20px;}
+.row-1 .btn-seconday:hover{color:#ffffff;border-radius:100px;background-color:#ff303e;border-color:none;border-style:hidden;opacity:.6font-size: 20px;}
+.hero .btn-seconday{color:#E74C4A;border-radius:100px;padding:10px 30px;background-color:#fff;border-color:#fafafa;border-style:hidden;opacity:.9;font-size: 20px;}
+.hero .btn-seconday:hover{color:#E74C4A;border-radius:100px;padding:10px 30px;background-color:#fff;border-color:#fafafa;border-style:hidden;opacity:.6;font-size: 20px;}
+.btn-seconday-1{color:white;border-radius:100px;padding:10px 30px;background-color:transparent;border-color:#fafafa;margin-top:3.5%;border-style:solid;}
 .btn-seconday-1:hover{color:white;border-radius:100px;padding:10px 30px;background-color:transparent;border-color:#fafafa;margin-top:3.5%;border-style:solid;opacity:.9}
 .nopadding{padding-left:0;padding-right:0}
 .read-more{color:#E74C4A;font-size:14px;font-weight:600}
